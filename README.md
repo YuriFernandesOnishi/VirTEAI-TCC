@@ -6,11 +6,11 @@ User FLow: https://app.diagrams.net/?src=about#G1Blwv0NMr3dS1LMOPwtuCGLLK4jwOIb5
 
 # Organização
 
-Back: Yuri
-Design: Ana
-Front: Lyvia, Yuri
-Banco: Esther, Yuri
-Documentação: Valdir
+Back: Yuri  
+Design: Ana  
+Front: Lyvia, Yuri  
+Banco: Esther, Yuri  
+Documentação: Valdir  
 
 # Brinde 
 
